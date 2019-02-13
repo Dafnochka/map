@@ -1,0 +1,30 @@
+header {
+  background: #dcafe8;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+header h1 {
+  margin: 0;
+  width: 100%;
+}
+header .owl {
+  width: 100px;
+  height: 100px;
+  background: url("images/sova.png") no-repeat;
+  background-size: contain;
+}
+header .task {
+  height: 70px;
+  width: 400px;
+  background: #d6d6d6;
+  border: solid black 3px;
+  border-radius: 10px;
+}
+header .bull {
+  width: 100px;
+  height: 100px;
+  background: url("images/bull.png") no-repeat;
+  background-size: contain;
+}

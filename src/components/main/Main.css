@@ -1,0 +1,12 @@
+#map {
+  display: flex;
+}
+#map-basics {
+  width: 100%;
+  height: 500px;
+}
+.aside {
+  width: 50%;
+  height: 500px;
+  background: #e9e9e9;
+}
